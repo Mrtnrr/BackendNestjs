@@ -2,7 +2,7 @@
     "name": "projectgeneral",
     "version": "0.0.1",
     "description": "project base to any project CRUD",
-    "author": "Miguel Angel Morales Reyes",
+    "author": "Martin Romero Garcia",
     "license": "MIT",
     "scripts": {
         "build": "rimraf dist && tsc -p tsconfig.build.json",
